@@ -52,13 +52,14 @@ Here are some ideas to get you started:
 
 
 ### Alternative: Compact Single-Line Version
+AI Engineer • Backend Developer
 
 
 -->
 
 ## 👋 Hi, I’m Amine
 
-AI Engineer • Backend Developer
+AI & Backend Engineer
 
 I’m passionate about building reliable, scalable, and intelligent systems.
 I enjoy turning complex ideas into practical, production-ready solutions and exploring technologies that solve real-world problems.
