@@ -1,6 +1,7 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
 **Iz-Amine/Iz-Amine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi, I’m Amine
+
+AI Engineer • Backend Developer
+
+I’m passionate about building reliable, scalable, and intelligent systems.
+I enjoy turning complex ideas into practical, production-ready solutions and exploring technologies that solve real-world problems.
