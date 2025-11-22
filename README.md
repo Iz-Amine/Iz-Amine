@@ -57,14 +57,17 @@ AI Engineer • Backend Developer
 
 -->
 
-<!--## 👋 Hi, I’m Amine-->
+<!--
+## 👋 Hi, I’m Amine-->
+## 👋 Hi There!
 <h1 align="center">  
   <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine!;" /> -->
-    <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine+Izougaghen!;+ your AI+and+Backend Engineer" /> -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Amine+Izougaghen!;AI+and+Backend+Engineer" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Amine+Izougaghen!;AI+and+Backend+Engineer" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=I'm+Amine+Izougaghen!;AI+and+Backend+Engineer" />
+  
 
 </h1>
-AI & Backend Engineer
+<!-- AI & Backend Engineer -->
 
 I’m passionate about building reliable, scalable, and intelligent systems.
 I enjoy turning complex ideas into practical, production-ready solutions and exploring technologies that solve real-world problems.
