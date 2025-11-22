@@ -57,9 +57,10 @@ AI Engineer • Backend Developer
 
 -->
 
-## 👋 Hi, I’m Amine
+<!--## 👋 Hi, I’m Amine-->
 <h1 align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine!;" />
+  <!-- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine!;" /> -->
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35¢er=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amine+Izougaghen!;+ your AI+and+Backend Engineer" />
 </h1>
 AI & Backend Engineer
 
